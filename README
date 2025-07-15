@@ -1,3 +1,4 @@
+This is a prototype of a daily conversation model. For the best experience, try engaging in daily interactions.
 1. docker pull arsalanyaghoobi/multiturn_gpt_conversational_ai_model:system
 2. docker run -it arsalanyaghoobi/multiturn_gpt_conversational_ai_model:system
 3. Enjoy the code
